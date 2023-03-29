@@ -6,3 +6,7 @@ i have developed a UI from free code camp
 
 -HTML
 -CSS
+
+you can view the live project
+
+https://courageous-dasik-d347b9.netlify.app
